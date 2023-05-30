@@ -1,0 +1,299 @@
+[
+  {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "Alabama",
+    "location": "Barber Motorsports Park",
+    "round": 1,
+    "slug": "indy-alabama-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-04-17T15:00:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-04-17T18:40:00Z",
+        "name": "Practice 2"
+      },
+      "third": {
+        "time": "2021-04-17T21:55:00Z",
+        "name": "Qualifications"
+      },
+      "fourth": {
+        "time": "2021-04-18T15:30:00Z",
+        "name": "Warmup"
+      },
+      "fifth": {
+        "time": "2021-04-18T19:30:00Z",
+        "name": "Race"
+      }
+    }
+  },
+  {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "Firestone",
+    "location": "St. Petersburg",
+    "round": 2,
+    "slug": "indy-firestone-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-04-23T20:15:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-04-24T13:45:00Z",
+        "name": "Practice 2"
+      },
+      "third": {
+        "time": "2021-04-24T17:45:00Z",
+        "name": "Qualifications"
+      },
+      "fourth": {
+        "time": "2021-04-25T13:05:00Z",
+        "name": "Warmup"
+      },
+      "fifth": {
+        "time": "2021-04-25T16:30:00Z",
+        "name": "Race"
+      }
+    }
+  },
+    {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "Genesys 300",
+    "location": "Texas Motor Speedway",
+    "round": 3,
+    "slug": "indy-genesys300-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-05-01T16:25:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-05-01T16:25:00Z",
+        "name": "Not held"
+      },
+      "third": {
+        "time": "2021-05-01T20:00:00Z",
+        "name": "Qualifications"
+      },
+      "fourth": {
+        "time": "2021-05-01T16:25:00Z",
+        "name": "Not held"
+      },
+      "fifth": {
+        "time": "2021-05-01T23:10:00Z",
+        "name": "Race"
+      }
+    }
+  },
+      {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "XPEL 375",
+    "location": "Texas Motor Speedway",
+    "round": 4,
+    "slug": "indy-xpel375-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-05-01T16:25:00Z",
+        "name": "Not held"
+      },
+      "second": {
+        "time": "2021-05-01T16:25:00Z",
+        "name": "Not held"
+      },
+      "third": {
+        "time": "2021-05-01T20:00:00Z",
+        "name": "Qualifications"
+      },
+      "fourth": {
+        "time": "2021-05-01T16:25:00Z",
+        "name": "Not held"
+      },
+      "fifth": {
+        "time": "2021-05-02T21:10:00Z",
+        "name": "Race"
+      }
+    }
+  },
+    {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "GMR",
+    "location": "Indianapolis Motor Speedway",
+    "round": 5,
+    "slug": "indy-gmr-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-05-14T13:30:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-05-14T17:00:00Z",
+        "name": "Practice 2"
+      },
+      "third": {
+        "time": "2021-05-14T20:30:00Z",
+        "name": "Qualifications"
+      },
+      "fourth": {
+        "time": "2021-05-15T14:45:00Z",
+        "name": "Warmup"
+      },
+      "fifth": {
+        "time": "2021-05-15T18:30:00Z",
+        "name": "Race"
+      }
+    }
+  },
+      {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "Indianapolis 500",
+    "location": "Indianapolis Motor Speedway",
+    "round": 6,
+    "slug": "indy-indy500-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-05-18T14:00:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-05-22T16:00:00Z",
+        "name": "Qualifications - Day 1"
+      },
+      "third": {
+        "time": "2021-05-23T17:15:00Z",
+        "name": "Qualifications - Last Row"
+      },
+      "fourth": {
+        "time": "2021-05-23T19:00:00Z",
+        "name": "Qualifications - Fast 9"
+      },
+      "fifth": {
+        "time": "2021-05-30T16:20:00Z",
+        "name": "Race"
+      }
+    }
+  },
+      {
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "Chevrolet Detroit",
+    "location": "Belle Isle",
+    "round": 7,
+    "slug": "indy-chd-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-06-11T21:00:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-06-12T15:00:00Z",
+        "name": "Qualifications - Round 1 Group 1"
+      },
+      "third": {
+        "time": "2021-06-12T15:15:00Z",
+        "name": "Qualifications - Round 1 Group 2"
+      },
+      "fourth": {
+        "time": "2021-06-12T15:30:00Z",
+        "name": "Firestone Fast 12"
+      },
+      "fifth": {
+        "time": "2021-06-12T18:00:00Z",
+        "name": "Race"
+      }
+    }
+  },
+	{
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "Chevrolet Detroit Race 2",
+    "location": "Belle Isle",
+    "round": 8,
+    "slug": "indy-chd2-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-06-13T00:00:00Z",
+        "name": "Not held"
+      },
+      "second": {
+        "time": "2021-06-13T13:00:00Z",
+        "name": "Qualifications - Round 1 Group 1"
+      },
+      "third": {
+        "time": "2021-06-13T13:15:00Z",
+        "name": "Qualifications - Round 1 Group 2"
+      },
+      "fourth": {
+        "time": "2021-06-13T13:30:00Z",
+        "name": "Firestone Fast 12"
+      },
+      "fifth": {
+        "time": "2021-06-13T16:40:00Z",
+        "name": "Race"
+      }
+    }
+  },
+  	{
+    "status": {
+      "code": "ended",
+      "text": "ENDED"
+    },
+    "name": "REV Group",
+    "location": "Road America",
+    "round": 9,
+    "slug": "indy-revgroup-gp",
+    "country-class": "flag-country-us",
+    "sessions": {
+      "first": {
+        "time": "2021-06-18T21:00:00Z",
+        "name": "Practice 1"
+      },
+      "second": {
+        "time": "2021-06-19T15:10:00Z",
+        "name": "Practice 2"
+      },
+      "third": {
+        "time": "2021-06-19T18:30:00Z",
+        "name": "Qualifications (4)"
+      },
+      "fourth": {
+        "time": "2021-06-19T21:30:00Z",
+        "name": "Final Practice"
+      },
+      "fifth": {
+        "time": "2021-06-20T16:40:00Z",
+        "name": "Race"
+      }
+    }
+  }
+  ]

@@ -1,0 +1,266 @@
+[
+    {
+      "status": {
+        "code": "ended",
+        "text": "ENDED"
+      },
+      "name": "Bahrain",
+      "location": "Sakhir",
+      "round": 1,
+      "slug": "bahrain-race",
+      "country-class": "flag-country-bh",
+      "sessions": {
+        "first": {
+          "time": "2021-03-26T10:05:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-03-26T13:30:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-03-27T10:25:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-03-27T16:40:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-03-28T10:50:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "ended",
+        "text": "ENDED"
+      },
+      "name": "Monaco",
+      "location": "Monte Carlo",
+      "round": 2,
+      "slug": "monaco-race",
+      "country-class": "flag-country-mc",
+      "sessions": {
+        "first": {
+          "time": "2021-05-20T07:45:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-05-20T11:20:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-05-21T09:45:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-05-22T06:20:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-05-22T15:15:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "ended",
+        "text": "ENDED"
+      },
+      "name": "Azerbaijan",
+      "location": "Baku",
+      "round": 3,
+      "slug": "azerbaijan-race",
+      "country-class": "flag-country-az",
+      "sessions": {
+        "first": {
+          "time": "2021-06-04T06:25:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-06-04T10:30:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-06-05T07:25:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-06-05T13:40:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-06-06T08:45:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "ended",
+        "text": "ENDED"
+      },
+      "name": "Great Britain",
+      "location": "Silverstone",
+      "round": 4,
+      "slug": "british-race",
+      "country-class": "flag-country-gb",
+      "sessions": {
+        "first": {
+          "time": "2021-07-16T10:30:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-07-16T15:50:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-07-17T07:50:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-07-17T13:45:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-07-18T09:50:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "ended",
+        "text": "ENDED"
+      },
+      "name": "Italy",
+      "location": "Monza",
+      "round": 5,
+      "slug": "italian-race",
+      "country-class": "flag-country-it",
+      "sessions": {
+        "first": {
+          "time": "2021-09-10T09:20:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-09-10T14:50:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-09-11T6:50:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-09-11T12:45:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-09-12T08:25:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "next",
+        "text": "NEXT"
+      },
+      "name": "Russia",
+      "location": "Sochi",
+      "round": 6,
+      "slug": "russian-race",
+      "country-class": "flag-country-ru",
+      "sessions": {
+        "first": {
+          "time": "2021-09-24T07:05:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-09-24T13:25:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-09-25T07:30:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-09-25T13:45:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-09-26T08:20:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "tbc",
+        "text": "TO BE CONFIRMED"
+      },
+      "name": "Saudi Arabia",
+      "location": "Jeddah",
+      "round": 7,
+      "slug": "saudi-arabia-race",
+      "country-class": "flag-country-sa",
+      "sessions": {
+        "first": {
+          "time": "2021-12-03T09:20:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-12-03T14:50:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-12-04T6:50:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-12-04T12:45:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-12-05T08:25:00Z",
+          "name": "Feature Race"
+        }
+      }
+    },
+    {
+      "status": {
+        "code": "tbc",
+        "text": "TO BE CONFIRMED"
+      },
+      "name": "Abu Dhabi",
+      "location": "Yas Marina",
+      "round": 8,
+      "slug": "abu-dhabi-race",
+      "country-class": "flag-country-ae",
+      "sessions": {
+        "first": {
+          "time": "2021-12-10T09:20:00Z",
+          "name": "Free Practice"
+        },
+        "second": {
+          "time": "2021-12-10T14:50:00Z",
+          "name": "Qualifying Session"
+        },
+        "third": {
+          "time": "2021-12-11T6:50:00Z",
+          "name": "Sprint Race 1"
+        },
+        "fourth": {
+          "time": "2021-12-11T12:45:00Z",
+          "name": "Sprint Race 2"
+        },
+        "fifth": {
+          "time": "2021-12-12T08:25:00Z",
+          "name": "Feature Race"
+        }
+      }
+    }
+  ]

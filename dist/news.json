@@ -1,0 +1,28 @@
+                [
+    {
+        "news-id": "i002",
+        "news-title": "Formula 1 Calendar updated!",
+        "news-small-desc": "Added new Qatar race which will take place on 21st November at the Losail International Circuit. Start times are yet to be officially published. <br> Turkish Grand Prix times updated to reflect official times.",
+        "news-date": "27.09.2021",
+        "news-slug": "formula1-calendar-updated-i002",
+        "news-text": "base64",
+        "news-author": "ra1g",
+        "news-category": {
+            "category-main": "F1",
+            "category-secondary": "UPDATE"
+        }
+    },
+    {
+        "news-id": "i001",
+        "news-title": "F2 Calendar updated!",
+        "news-small-desc": "Latest calendar now available.",
+        "news-date": "30.08.2021",
+        "news-slug": "f2-calendar-updated-i001",
+        "news-text": "base64",
+        "news-author": "ra1g",
+        "news-category": {
+            "category-main": "F2",
+            "category-secondary": "UPDATE"
+        }
+    }
+]            

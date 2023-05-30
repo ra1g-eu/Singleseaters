@@ -1,0 +1,12 @@
+[
+  {
+    "faq-accordion-id": "accordionFaqOne",
+    "faq-question": "Are the times shown on your website reliable? I do not want to miss free practice or a race.",
+    "faq-answer" : "We try to regularly update all start times. Sometimes it is not possible to update the information as soon as it is released to the public. We advise to always double check our times with those on official websites."
+  },
+  {
+    "faq-accordion-id": "accordionFaqTwo",
+    "faq-question": "I found wrong or incorrect information. Where can I report it?",
+    "faq-answer" : "You can use the form on <a href='report' class='link-primary'>this page</a>. We will try to process your report as quickly as we can."
+  }
+]
